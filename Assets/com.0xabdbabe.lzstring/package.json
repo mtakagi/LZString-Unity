@@ -1,0 +1,17 @@
+{
+  "name": "com.0xabadbabe.lzstring",
+  "version": "0.0.1",
+  "displayName": "LZString",
+  "description": "LZString Unity Implementation",
+  "unity": "2020.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@mtakagi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mtakagi/LZString-Unity.git"
+  },
+  "author": {
+    "name": "mtakagi"
+  }
+}
